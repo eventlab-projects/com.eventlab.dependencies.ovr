@@ -16,5 +16,42 @@
     "name": "EventLab",
     "email": "eventlab.projects@gmail.com",
     "url": "http://www.event-lab.org/"
-  }
+  },  
+  "samples": [
+	{
+		"displayName": "Audiomanager",
+		"description": "Audiomanager samples",
+		"path": "Samples~/Audiomanager"
+	},
+	{
+		"displayName": "Interaction",
+		"description": "Interaction samples",
+		"path": "Samples~/Interaction"
+	},
+	{
+		"displayName": "LipSync",
+		"description": "LipSync samples",
+		"path": "Samples~/LipSync"
+	},
+	{
+		"displayName": "Platform",
+		"description": "Platform samples",
+		"path": "Samples~/Platform"
+	},
+	{
+		"displayName": "Spatializer",
+		"description": "Spatializer samples",
+		"path": "Samples~/Spatializer"
+	},
+	{
+		"displayName": "Voice",
+		"description": "Voice samples",
+		"path": "Samples~/Voice"
+	},
+	{
+		"displayName": "VR",
+		"description": "VR samples",
+		"path": "Samples~/VR"
+	}
+  ]
 }
