@@ -1,0 +1,20 @@
+{
+  "name": "com.eventlab.dependencies.oculus",
+  "version": "1.0.0",
+  "displayName": "EventLab.Dependencies.Oculus",
+  "description": "The Oculus Integration package",
+  "unity": "2021.3",
+  "keywords": [
+    "NPC",
+    "agents",
+    "crowd",
+	"impostors",
+	"animation",
+	"lipsync"
+  ],
+  "author": {
+    "name": "EventLab",
+    "email": "eventlab.projects@gmail.com",
+    "url": "http://www.event-lab.org/"
+  }
+}
