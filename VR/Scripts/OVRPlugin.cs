@@ -7106,6 +7106,21 @@ public static partial class OVRPlugin
 
 // Virtual keyboard calls
 
+	public static bool CheckVersion()
+    {
+		return version >= OVRP_1_78_0.version;
+	}
+
+	public static bool CheckGetFaceTrackingSuccess()
+	{
+		return OVRP_1_78_0.ovrp_GetFaceTrackingEnabled(out var val) == Result.Success;
+	}
+
+	public static bool CheckGetFaceTrackingEnabled()
+    {
+		return OVRP_1_78_0.ovrp_GetFaceTrackingEnabled(out var val) == Result.Success && val == Bool.True;
+	}
+
 
 	/// <summary>
 	/// True if face tracking is enabled, otherwise false.
