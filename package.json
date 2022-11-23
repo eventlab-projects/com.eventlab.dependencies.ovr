@@ -48,10 +48,15 @@
 		"description": "Voice samples",
 		"path": "Samples~/Voice"
 	},
-	{
-		"displayName": "VR",
-		"description": "VR samples",
-		"path": "Samples~/VR"
-	}
+		{
+			"displayName": "VR",
+			"description": "VR samples",
+			"path": "Samples~/VR"
+		},
+		{
+			"displayName": "Movement",
+			"description": "Movement samples",
+			"path": "Samples~/Movement"
+		}
   ]
 }
