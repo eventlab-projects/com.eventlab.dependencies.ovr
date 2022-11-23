@@ -1,9 +1,9 @@
 {
-  "name": "com.eventlab.dependencies.oculus",
+  "name": "com.eventlab.dependencies.meta",
   "version": "1.0.0",
-  "displayName": "EventLab.Dependencies.Oculus",
-  "description": "The Oculus Integration package",
-  "unity": "2021.3",
+  "displayName": "EventLab.Dependencies.Meta",
+  "description": "The Meta Integration package",
+  "unity": "2020.3",
   "keywords": [
     "NPC",
     "agents",
